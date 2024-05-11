@@ -1,0 +1,12 @@
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/bin/Debug/net8.0/MyNotes.Core.deps.json
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/bin/Debug/net8.0/MyNotes.Core.dll
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/bin/Debug/net8.0/MyNotes.Core.pdb
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.csproj.AssemblyReference.cache
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.AssemblyInfoInputs.cache
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.AssemblyInfo.cs
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.csproj.CoreCompileInputs.cache
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.dll
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/refint/MyNotes.Core.dll
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/MyNotes.Core.pdb
+/Users/vlad/RiderProjects/MyNotes/MyNotes.Core/obj/Debug/net8.0/ref/MyNotes.Core.dll
